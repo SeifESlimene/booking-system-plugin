@@ -1,0 +1,6 @@
+- language support, controlled from remote
+- add description to products when a description is coming from server
+- put stencil in production mode
+- how can i implement it as a single file on a remote webserver? and without the <component> tag
+- fixed font-size in the plugin
+- timezone seems weird, like utcoffset(60)? why, it should just show what it sees
